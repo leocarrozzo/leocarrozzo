@@ -10,7 +10,7 @@
 
 <p align="center">
   🎓 <b>Bachelor's degree</b> in Electronics and Telecommunications Engineering @ <i>Alma Mater Studiorum - University of Bologna</i><br>
-  🎓 <b>Master's degree</b> in Computer Science Engineering @ <i>Sapienza - University of Rome</i>
+  🎓 <b>Master's degree</b> in Engineering in Computer Science @ <i>Sapienza - University of Rome</i>
 </p>
 
 ---
